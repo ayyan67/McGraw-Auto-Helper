@@ -46,14 +46,13 @@ const CONFIG = {
 
 ## Screenshots
 
-### Installation Guide
-_A screenshot showing the Tampermonkey extension in the browser toolbar._
-
 ### Control Panel
-_A screenshot of the control panel in action, highlighting the toggle button, manual answer button, and stats._
+![image](https://github.com/user-attachments/assets/ccf2c226-54a0-46f8-864f-3ce34b3166a4)
+
 
 ### Answer Automation
-_A screenshot showing the script selecting answers on a McGraw Hill Connect question._
+![image](https://github.com/user-attachments/assets/08e11a7e-7cca-4a88-bda5-8de98e260cd9)
+
 
 ## Notes
 
